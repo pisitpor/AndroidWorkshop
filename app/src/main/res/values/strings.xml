@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo01</string>
+    <string name="app_title">Demo App</string>
+    <string name="HelloMessage">We love Butter Knife!</string>
+</resources>
